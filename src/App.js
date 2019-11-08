@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
      <h1>
-     	Deployed Site
+     	Jr's Deployed Site
      </h1>
     </div>
   );
